@@ -11,107 +11,121 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Front-End",
+        "startDate": "Projects",
+        "description": "This is my favorite front-end project",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/password_background.png"
         ],
-        "url": "",
+        "url": "https://github.com/kmaddox2122",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Back-End",
+        "startDate": "Projects",
+        "description": "These are my favorite back-end projects",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/ecommerce_background.png",
+          "images/Social Network API.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/kmaddox2122",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            
+          },
+          {
+            
           }
         ]
       },
+      
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Full-Stack",
+        "startDate": "Projects",
+        "description": "These are my favorite full-stack projects",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/note_background.png",
+          "images/jeopardy_bg.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/kmaddox2122",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "UT Austin Bootcamp",
+        "title": "Building a foundation",
+        "years": "09.19.22 - 10.07.22",
         "mainTech": [
-          "Angular 8/9/10"
+          "Phase 1"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "API's",
+          "JQuery",
+          "JSON",
+          "Git"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "UT Austin Bootcamp",
+        "title": "Getting Technical",
+        "years": "10.17.22 - 11.04.22",
         "mainTech": [
-          "Angular 7/8"
+          "Phase 2"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Node",
+          "ES6",
+          "Object-Oriented Programming",
+          "Express",
+          "SQL/ MySQL/ Workbench",
+          "MVC Paradigm",
+          "Sequelize",
+          "Testing",
+          "Agile development"
+        ]
+      },
+      {
+        "company": "UT Austin Bootcamp",
+        "title": "Bring it all together",
+        "years": "11.14.22 - 12.6.22",
+        "mainTech": [
+          "Phase 3"
+        ],
+        "technologies": [
+          "Progressive Web Apps",
+          "React",
+          "NoSQL/ Mongo DB",
+          "MERN Stack",
+          "Computer Science fundamentals",
+          "Graph QL"
         ]
       }
     ]
