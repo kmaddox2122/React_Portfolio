@@ -7,7 +7,7 @@ This is the beginning of my portfolio using react.
 
 ## Screenshot
 
-![Screenshot](/portfolio/public/images/ScreenShot.png)
+![Screenshot](/docs/portfolio/public/images/ScreenShot.png)
 
 ## Credits
 
