@@ -1,0 +1,130 @@
+{
+    "basic_info": {
+      "description_header": "Hi there, nice to meet you.",
+      "description": "I am a full stack web developer with a background in healthcare administration. I worked in the medical field for upwards of 7 years. I strived to enter a field of ever-evolving knowledge and learning, so I decided to enroll in a competitive coding bootcamp. After 3 months of rigorous work and much dedication, I'm proud to tell my story and enter into this new workforce.  ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Front-End",
+        "startDate": "Projects",
+        "description": "This is my favorite front-end project. Visit this site to generate a random password.",
+        "images": [
+          "images/password_background.png"
+        ],
+        "url": "https://github.com/kmaddox2122/PasswordGenerator",
+        "technologies": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ]
+      },
+      {
+        "title": "Back-End",
+        "startDate": "Projects",
+        "description": "This is my favorite back-end project. Using MongoDB I have built the back-end for a social media application where users can add a friend and reactions to each other's thoughts.",
+        "images": [
+          "images/Social Network API.jpg"
+        ],
+        "url": "https://github.com/kmaddox2122/Social_Network_API",
+        "technologies": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ]
+      },
+      
+      {
+        "title": "Full-Stack",
+        "startDate": "Projects",
+        "description": "This is my favorite collaborative, full-stack project. We created an application to play a parody of Jeopardy with a friend.",
+        "images": [
+          "images/jeopardy_bg.png"
+        ],
+        "url": "https://github.com/chewy441014/jeo-party",
+        "technologies": [
+          {
+            
+          },
+          {
+            
+          },
+          {
+            
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "UT Austin Bootcamp",
+        "title": "Building a foundation",
+        "years": "09.19.22 - 10.07.22",
+        "mainTech": [
+          "Phase 1"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "API's",
+          "JQuery",
+          "JSON",
+          "Git"
+        ]
+      },
+      {
+        "company": "UT Austin Bootcamp",
+        "title": "Getting Technical",
+        "years": "10.17.22 - 11.04.22",
+        "mainTech": [
+          "Phase 2"
+        ],
+        "technologies": [
+          "Node",
+          "ES6",
+          "Object-Oriented Programming",
+          "Express",
+          "SQL/ MySQL/ Workbench",
+          "MVC Paradigm",
+          "Sequelize",
+          "Testing",
+          "Agile development"
+        ]
+      },
+      {
+        "company": "UT Austin Bootcamp",
+        "title": "Bring it all together",
+        "years": "11.14.22 - 12.6.22",
+        "mainTech": [
+          "Phase 3"
+        ],
+        "technologies": [
+          "Progressive Web Apps",
+          "React",
+          "NoSQL/ Mongo DB",
+          "MERN Stack",
+          "Computer Science fundamentals",
+          "Graph QL"
+        ]
+      }
+    ]
+  }

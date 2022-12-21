@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "description_header": "Hi there, nice to meet you.",
+    "description": "I am a full stack web developer with a background in healthcare administration. I worked in the medical field for upwards of 7 years. I strived to enter a field of ever-evolving knowledge and learning, so I decided to enroll in a competitive coding bootcamp. After 3 months of rigorous work and much dedication, I'm proud to tell my story and enter into this new workforce.  ",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Front-End",
+      "startDate": "Projects",
+      "description": "This is my favorite front-end project",
+      "images": [
+        "images/password_background.png"
+      ],
+      "url": "https://github.com/kmaddox2122",
+      "technologies": [
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        }
+      ]
+    },
+    {
+      "title": "Back-End",
+      "startDate": "Projects",
+      "description": "These are my favorite back-end projects",
+      "images": [
+        "images/ecommerce_background.png",
+        "images/Social Network API.jpg"
+      ],
+      "url": "https://github.com/kmaddox2122",
+      "technologies": [
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        }
+      ]
+    },
+    
+    {
+      "title": "Full-Stack",
+      "startDate": "Projects",
+      "description": "These are my favorite full-stack projects",
+      "images": [
+        "images/note_background.png",
+        "images/jeopardy_bg.png"
+      ],
+      "url": "https://github.com/kmaddox2122",
+      "technologies": [
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "UT Austin Bootcamp",
+      "title": "Building a foundation",
+      "years": "09.19.22 - 10.07.22",
+      "mainTech": [
+        "Phase 1"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "API's",
+        "JQuery",
+        "JSON",
+        "Git"
+      ]
+    },
+    {
+      "company": "UT Austin Bootcamp",
+      "title": "Getting Technical",
+      "years": "10.17.22 - 11.04.22",
+      "mainTech": [
+        "Phase 2"
+      ],
+      "technologies": [
+        "Node",
+        "ES6",
+        "Object-Oriented Programming",
+        "Express",
+        "SQL/ MySQL/ Workbench",
+        "MVC Paradigm",
+        "Sequelize",
+        "Testing",
+        "Agile development"
+      ]
+    },
+    {
+      "company": "UT Austin Bootcamp",
+      "title": "Bring it all together",
+      "years": "11.14.22 - 12.6.22",
+      "mainTech": [
+        "Phase 3"
+      ],
+      "technologies": [
+        "Progressive Web Apps",
+        "React",
+        "NoSQL/ Mongo DB",
+        "MERN Stack",
+        "Computer Science fundamentals",
+        "Graph QL"
+      ]
+    }
+  ]
+}
