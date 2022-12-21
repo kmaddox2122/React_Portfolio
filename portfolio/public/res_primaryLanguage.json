@@ -13,11 +13,11 @@
       {
         "title": "Front-End",
         "startDate": "Projects",
-        "description": "This is my favorite front-end project",
+        "description": "This is my favorite front-end project. Visit this site to generate a random password.",
         "images": [
           "images/password_background.png"
         ],
-        "url": "https://github.com/kmaddox2122",
+        "url": "https://github.com/kmaddox2122/PasswordGenerator",
         "technologies": [
           {
             
@@ -33,12 +33,11 @@
       {
         "title": "Back-End",
         "startDate": "Projects",
-        "description": "These are my favorite back-end projects",
+        "description": "This is my favorite back-end project. Using MongoDB I have built the back-end for a social media application where users can add a friend and reactions to each other's thoughts.",
         "images": [
-          "images/ecommerce_background.png",
           "images/Social Network API.jpg"
         ],
-        "url": "https://github.com/kmaddox2122",
+        "url": "https://github.com/kmaddox2122/Social_Network_API",
         "technologies": [
           {
             
@@ -55,12 +54,11 @@
       {
         "title": "Full-Stack",
         "startDate": "Projects",
-        "description": "These are my favorite full-stack projects",
+        "description": "This is my favorite collaborative, full-stack project. We created an application to play a parody of Jeopardy with a friend.",
         "images": [
-          "images/note_background.png",
           "images/jeopardy_bg.png"
         ],
-        "url": "https://github.com/kmaddox2122",
+        "url": "https://github.com/chewy441014/jeo-party",
         "technologies": [
           {
             

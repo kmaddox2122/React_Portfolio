@@ -29,12 +29,12 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                {/* <span
+                <span
                   className="iconify language-icon mr-5"
-                  data-icon="twemoji-flag-for-flag-united-kingdom"
+                  data-icon="twemoji-flag-for-flag-united-states"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
-                ></span> */}
+                ></span>
               </div>
               <div 
                 onClick={() =>
@@ -45,12 +45,12 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                {/* <span
+                <span
                   className="iconify language-icon"
-                  data-icon="twemoji-flag-for-flag-poland"
+                  data-icon="twemoji-flag-for-flag-canada"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
-                ></span> */}
+                ></span>
               </div>
             </div>
             <div className="col">
@@ -58,9 +58,9 @@ class Footer extends Component {
                 <div className="container">
                   <small>
                     Copyright Codefellows&copy;{" "}
-                    {/* {this.props.sharedBasicInfo
+                    {this.props.sharedBasicInfo
                       ? this.props.sharedBasicInfo.name
-                      : "???"} */}
+                      : "???"}
                   </small>
                 </div>
               </div>
